@@ -1,0 +1,14 @@
+header{
+  background-color: gray;
+  padding: 15px;
+  color: white;
+}
+#issues-list{
+  margin-top: 3px;
+}
+#issue{
+	border: 1px solid grey;
+}
+#main-container{
+  margin: 0px 200px;	
+}
